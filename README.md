@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashuwanikumarsingh
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Btech CSE
-- 💞️ I’m looking to collaborate on Javascipt
+- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me chick100@protonmail.com
 
 <!---
